@@ -1,7 +1,7 @@
 import { Box, HStack } from '@chakra-ui/react';
 import { TopMenuItemsComponent } from './TopMenuItemsComponent';
 import { SearchComponent } from './SearchComponent';
-import { UserComponent  } from './UserComponent';
+import { UserComponent } from './UserComponent';
 import { CartComponent } from './CartComponent';
 
 export function TopMenu() {
